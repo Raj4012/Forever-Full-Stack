@@ -10,7 +10,7 @@ const NewsLetterBox = () => {
         Subscribe now & get 25% off
       </p>
       <p className="text-gray-400 mt-3">
-        Don’t miss out on exclusive deals and discounts! Subscribe to our newsletter today and enjoy a flat 50% off on your first purchase
+        Don’t miss out on exclusive deals and discounts! Subscribe to our newsletter today and enjoy a flat 25% off on your first purchase
       </p>
       <form
         onSubmit={onSubmitHandler}
