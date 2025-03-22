@@ -3,7 +3,7 @@
 Welcome to **Forever**, a full-stack e-commerce platform built for seamless online shopping experiences. This project includes a **user-friendly frontend**, a **powerful backend**, and an **admin panel** for product and order management.
 
 ## 🚀 **Live Demo**
-[[🌐 Visit Forever Online](#) *(Replace with your live website link)*](https://forever-frontend-snowy.vercel.app/)
+https://forever-frontend-snowy.vercel.app/
 
 ---
 
